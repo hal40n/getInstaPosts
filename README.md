@@ -15,4 +15,4 @@ Thanks to your great article, I passed the test successfully.
 thank you very much.
 
 
-[https://di-acc2.com/system/rpa/19471/:embad:cite]
+[【Python】インスタグラムに投稿したメディア情報取得｜Instagram Graph APIで運用自動化](https://di-acc2.com/system/rpa/19471/)_
